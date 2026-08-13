@@ -1,4 +1,14 @@
-# vinext-starter
+# GitHub Workflow Test
+
+This repository contains a simple test page and an automated GitHub Pages deployment.
+
+The published page is available at:
+
+https://eropowerii.github.io/CodexTest/
+
+GitHub Pages source files live in `github-pages/`. A workflow in `.github/workflows/deploy-pages.yml` publishes that folder whenever it changes on `main`.
+
+## App source
 
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
